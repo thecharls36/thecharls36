@@ -13,10 +13,7 @@ Soy Ingeniero Civil bilingüe con experiencia en diseño de estructuras y gesti�
 
 ### 📊 Mis estadísticas:
 
-![Total contributions](https://img.shields.io/badge/Total%20Contributions-12300-brightgreen)
-![Current streak](https://img.shields.io/badge/Current%20Streak-15-brightgreen)
-![Longest streak](https://img.shields.io/badge/Longest%20Streak-45-brightgreen)
-![Most used language](https://img.shields.io/badge/Python-100%25-blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecharls36&show_icons=true&hide=prs&count_private=true)
 <!--
 **thecharls36/thecharls36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
