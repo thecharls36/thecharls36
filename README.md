@@ -11,9 +11,6 @@ Soy Ingeniero Civil bilingüe con experiencia en diseño de estructuras y gesti�
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 📊 Mis estadísticas:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thecharls36&show_icons=true&hide=prs&count_private=true)
 <!--
 **thecharls36/thecharls36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
